@@ -84,7 +84,7 @@ Contains visualizations of posterior approximations, mixture models for small sa
 # Clone the repository
 git clone https://github.com/mbethlehem/Masters-Thesis.git
 # Navigate to the repository
-cd variational-approximations
+cd Masters-Thesis
 
 # Install required Python packages
 pip install -r requirements.txt
